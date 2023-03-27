@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+./out
+./out/*
+/out*
+/out
+
+.webpack
+./.webpack
+./.webpack/*

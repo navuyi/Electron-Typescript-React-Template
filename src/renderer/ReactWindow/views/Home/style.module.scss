@@ -1,0 +1,14 @@
+@import "/src/config/style.config.scss";
+
+.home{
+    @include styling-defaults;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}
+.home span{
+    
+}
